@@ -25,9 +25,7 @@ public class Pet {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
+    public void setAge(int age) {this.age = age;}
 
     public String getType() {
         return type;
